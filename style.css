@@ -10,7 +10,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 649px;
-  background-image: url("images/blue.jpg");
+  background-image: url("blue.jpg");
 }
 .u-section-1 .u-image-1:hover{
   transition: 4s;
@@ -35,7 +35,7 @@
 
 .u-section-1 .u-image-2 {
   min-height: 649px;
-  background-image: url("images/groupportraitxx.jpg");
+  background-image: url("groupportraitxx.jpg");
   transition:  4s;
 }
 .u-section-1 .u-image-2:hover{
